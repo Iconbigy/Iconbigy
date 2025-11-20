@@ -26,4 +26,41 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Habakkuk.Ochieng ) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Hi 👋, I'm M.r H
+
+### A passionate Html developer
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Iconbigy" alt="Iconbigy" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/Iconbigy1" target="blank"><img src="https://img.shields.io/twitter/follow/Iconbigy1?logo=twitter&style=for-the-badge" alt="Iconbigy1" /></a> </p>
+
+- 🔭 I'm currently working on **Web developer **
+
+- 🌱 I'm currently learning **AWS **
+
+- 💬 Ask me about **Web development   git**
+
+- 📫 How to reach me **iconbigy@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Iconbigy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Iconbigy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/habakkukjima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habakkukjima" height="30" width="40" /></a>
+<a href="https://fb.com/iconbigy " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iconbigy " height="30" width="40" /></a>
+<a href="https://instagram.com/iconbigy " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iconbigy " height="30" width="40" /></a>
+<a href="https://twitter.com/Iconbigy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Iconbigy1" height="30" width="40" /></a>
+<a href="https://youtube.com/https://youtube.com/@bezyb.e.e?si=CNjtg-drWflXopNq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@bezyb.e.e?si=CNjtg-drWflXopNq" height="30" width="40" /></a>
+<a href="https://hackerrank.com/iconbigy " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iconbigy " height="30" width="40" /></a>
+<a href="https://discord.gg/https://dcd.gg/icon-bigy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dcd.gg/icon-bigy" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iconbigy&show_icons=true&locale=en&layout=compact" alt="Iconbigy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iconbigy&show_icons=true&locale=en" alt="Iconbigy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iconbigy&" alt="Iconbigy" /></p>
+
+
